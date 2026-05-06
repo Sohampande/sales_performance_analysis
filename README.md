@@ -10,7 +10,7 @@ A comprehensive, interactive Power BI dashboard analyzing Blinkit's (India's las
 
 ## 📊 Dashboard Preview
 
-[Blinkit Dashboard](./sales_performance_analysis/BlinkitData/dashboard_preview.png)
+![Blinkit Dashboard](./BlinkitData/dashboard_preview.png)
 
 > **Key Highlights:** $1.20M Total Sales · $140.99 Avg Sales · 8,523 Items · 3.92 Avg Rating
 
